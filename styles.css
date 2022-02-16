@@ -18,7 +18,7 @@ body {
   
 h1 {
     font-size: 32px;
-    color: #BFFFF0;
+    color: #FFBC80;
     padding-bottom: 40px;
 }
   
@@ -28,7 +28,7 @@ h1 {
     -webkit-backdrop-filter: blur(12px);
     padding: 20px;
     font-size: 45px;
-    color: #90bdc4;
+    color: #B8405E;
     font-weight: 800;
     border-radius: 5px;
 }
